@@ -8,5 +8,7 @@ Activate Alfred and use keyword `alx` then input the URL of the site you want to
 
 * example `alx alfredapp.com`
 
-## Credit
-Kudos to [@PaulUnd](http://twitter.com/paulund) for creating the simple PHP class that makes this all work. And kudos to [@KaraBoney](http://twitter.com/#!/KaraBoney/status/142433534085312512) for alerting me to it.
+## Kudos
+Also go to [@PaulUnd](http://twitter.com/paulund) for creating the simple PHP class that makes this all work and to [@KaraBoney](http://twitter.com/#!/KaraBoney/status/142433534085312512) for alerting me to it.
+
+### Follow me on Twitter for more [@brickattack](http://twitter.com/brickattack)
